@@ -4,7 +4,7 @@ Access-Layer Hardening and Layer 2 Defence Baseline capstone project.
 
 ## Project links
 
-- Jira board: Add link
+- Jira board: https://njit-team-tspg1wx2.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none
 - Capstone Discord channel: Add channel name
 
 ## Repository folders
