@@ -1,6 +1,5 @@
 # IT491 Team 3 - Cisco Team
 
-Access-Layer Hardening and Layer 2 Defence Baseline capstone project.
 
 ## Project links
 
@@ -15,7 +14,7 @@ Access-Layer Hardening and Layer 2 Defence Baseline capstone project.
 | `packet-tracer/` | Cisco Packet Tracer `.pkt` files and checkpoints |
 | `configs/` | Exported device configurations as text files |
 | `diagrams/` | Logical and physical network diagrams |
-| `evidence/` | Acceptance-test evidence for T-01 through T-15 |
+| `evidence/` | Acceptance-test evidence |
 
 ## Simple team rules
 
