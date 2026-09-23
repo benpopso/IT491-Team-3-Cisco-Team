@@ -4,8 +4,8 @@ Store the approved scope, sprint plans, meeting notes, risk log, and important d
 
 Suggested filenames:
 
-- `scope.pdf`
-- `sprint-plan.xlsx`
-- `meeting-notes-YYYY-MM-DD.md`
-- `risk-log.xlsx`
+- `scope`
+- `sprint-plan`
+- `meeting-notes-YYYY-MM-DD`
+- `risk-log`
 
