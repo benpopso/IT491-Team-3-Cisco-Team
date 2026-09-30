@@ -3,8 +3,8 @@
 
 ## Project links
 
-- Jira board: https://njit-team-tspg1wx2.atlassian.net/jira/software/projects/SCRUM/boards/1?filter=&groupBy=none
-- Capstone Discord channel: Add channel name
+- Communication board: 
+- Capstone Discord channel: cisco-team-3
 
 ## Repository folders
 
