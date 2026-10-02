@@ -3,7 +3,7 @@
 
 ## Project links
 
-- Communication board: 
+- Trello Board: https://trello.com/invite/b/6abd4fa5848c7a14efff92be/ATTIe677aebed4b0511ddc7a58215ac4e6015EB5A6B2/it491-cisco-team-3-ccna-13
 - Capstone Discord channel: cisco-team-3
 
 ## Repository folders
