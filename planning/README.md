@@ -1,11 +1,9 @@
 # Planning
 
-Store the approved scope, sprint plans, meeting notes, risk log, and important decisions here.
+Store MDDDE work, sprint plans, PM reports, meeting notes, risks, and decisions here. The scope and other project documents belong in `documents/`.
 
 Suggested filenames:
 
-- `scope`
 - `sprint-plan`
 - `meeting-notes-YYYY-MM-DD`
 - `risk-log`
-

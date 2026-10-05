@@ -10,11 +10,13 @@
 
 | Folder | What goes here |
 | --- | --- |
-| `planning/` | Scope, sprint plans, meeting notes, risks, and decisions |
+| `planning/` | MDDDE, sprint planning, PM reports, and existing meeting notes |
 | `packet-tracer/` | Cisco Packet Tracer `.pkt` files and checkpoints |
 | `configs/` | Exported device configurations as text files |
-| `diagrams/` | Logical and physical network diagrams |
-| `evidence/` | Acceptance-test evidence |
+| `diagrams/` | Logical topology, physical topology, and initial sketch |
+| `documents/` | Scope, build standard, addressing plan, sponsor review, and time management |
+| `evidence/` | Acceptance-test and project evidence organized by sprint |
+| `archived-work/` | Superseded early diagrams kept for reference |
 
 ## Simple team rules
 
