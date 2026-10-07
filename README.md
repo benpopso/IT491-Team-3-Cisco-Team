@@ -10,7 +10,7 @@
 
 | Folder | What goes here |
 | --- | --- |
-| `planning/` | MDDDE, sprint planning, PM reports, and existing meeting notes |
+| `meetings/` | Team meeting notes and decisions |
 | `packet-tracer/` | Cisco Packet Tracer `.pkt` files and checkpoints |
 | `configs/` | Exported device configurations as text files |
 | `diagrams/` | Logical topology, physical topology, and initial sketch |
