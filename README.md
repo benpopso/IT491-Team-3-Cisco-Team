@@ -25,4 +25,3 @@
 3. Commit a clean `.pkt` checkpoint before running a verification test.
 4. Only one person edits the active `.pkt` file at a time.
 5. Do not overwrite test evidence. Add the date or test ID to the filename.
-6. Never commit passwords, access tokens, private keys, or private Discord links.
